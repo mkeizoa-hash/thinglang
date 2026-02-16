@@ -1,0 +1,20 @@
+# Build output
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.a
+
+# Debug
+*.log
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Mac (just in case)
+.DS_Store
